@@ -1,3 +1,5 @@
+![gif](https://github.com/harveyphm/harveyphm/blob/master/gif/neural.gif?raw=true)
+
 ### Hi there 👋
 
 <!--
