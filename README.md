@@ -1,4 +1,4 @@
-![gif](https://github.com/harveyphm/harveyphm/blob/master/gif/neural.gif?raw=true)
+![gif](https://github.com/harveyphm/harveyphm/blob/main/gif/neural.gif)
 
 ### Hi there 👋
 
