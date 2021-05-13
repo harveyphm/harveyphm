@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-### I'm Harvey - a hobbyist pragmatic programmer 👋
+## I'm Harvey - a hobbyist pragmatic programmer 👋
 
 
 ## I'm interest in Cryptocurrencies, Deep Learning and robotics!
