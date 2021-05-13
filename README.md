@@ -16,17 +16,17 @@ Here are some ideas to get you started:
 - 👯 Would love to collaborate with you on a Reinforcement Learning, DApp or Robotics Perception project
 
 
-### My projectss ⚡
+## My projectss ⚡
 
-#### Ethereum 
+### Ethereum 
 
-#### Deep Learning 
+### Deep Learning 
 
-#### Reinforcement Learning 
+### Reinforcement Learning 
 
-#### Robotics
+### Robotics
 
-#### Quant Trading/Investing
+### Quant Trading/Investing
 
 
 
