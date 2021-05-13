@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 ## I'm Harvey - a hobbyist pragmatic programmer 👋
 
 
-## I'm interest in Cryptocurrencies, Deep Learning and robotics!
+## I'm interested in Cryptocurrencies, Deep Learning and robotics!
 
 - 🔭 I’m currently working on my Decentralized application on Ethereum. 
 - 🌱 I’m currently learning Ethereum and other smart contract flatform
