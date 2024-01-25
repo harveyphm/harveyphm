@@ -19,7 +19,7 @@ I'm a passionate programmer and a dedicated learner with a keen interest in **Da
 ## 🤝 Let's Collaborate
 I'm always open to collaborating on projects that are at the intersection of data, learning algorithms, security, and innovation. If you're working on something related to **Data Science, Deep Learning, Cryptography, or Cyber Security**, let's connect and create something impactful!
 
-## 🔍 My Projects
+## 🔍 My Focus
 - **Data Science**: Unraveling data mysteries with Python and R.
 - **Deep Learning**: Building and training neural networks to mimic human decision-making.
 - **Cryptography**: Implementing secure encryption algorithms.
