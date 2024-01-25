@@ -27,7 +27,7 @@ I'm always open to collaborating on projects that are at the intersection of dat
 
 Feel free to reach out if you have any questions or if you want to bounce ideas around!
 
-`[LinkedIn](https://www.linkedin.com/in/harveyphm/)https://www.linkedin.com/in/harveyphm/)`
+[LinkedIn](https://www.linkedin.com/in/harveyphm/)https://www.linkedin.com/in/harveyphm/)
 
 
 
