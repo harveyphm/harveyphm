@@ -5,28 +5,30 @@
 
 Here are some ideas to get you started:
 -->
+# Hello World, I'm Harvey! 👋
 
-## I'm Harvey - a hobbyist pragmatic programmer 👋
+## 🤖 About Me
+I'm a passionate programmer and a dedicated learner with a keen interest in **Data Science, Deep Learning, Cryptography, and Cyber Security**. I believe in the power of data and technology to transform and secure our digital world.
 
+## 🚀 What I'm Up To
+- 🔭 I’m currently exploring advanced **Data Science** techniques to derive meaningful insights from complex datasets.
+- 🌱 I’m on a journey to master **Deep Learning** and its application in solving real-world problems.
+- 👨‍💻 Diving deep into the fascinating world of **Cryptography** to understand how to better secure information.
+- 🛡️ Strengthening my skills in **Cyber Security** to contribute to building safer cyber environments.
 
-## I'm interested in Blockchain, Deep Learning and Robotics!
+## 🤝 Let's Collaborate
+I'm always open to collaborating on projects that are at the intersection of data, learning algorithms, security, and innovation. If you're working on something related to **Data Science, Deep Learning, Cryptography, or Cyber Security**, let's connect and create something impactful!
 
-- 🔭 I’m currently working on my Decentralized application on Ethereum. 
-- 🌱 I’m currently learning Ethereum and other smart contract flatform
-- 👯 Would love to collaborate with you on a Reinforcement Learning, DApp or Robotics Perception project
+## 🔍 My Projects
+- **Data Science**: Unraveling data mysteries with Python and R.
+- **Deep Learning**: Building and training neural networks to mimic human decision-making.
+- **Cryptography**: Implementing secure encryption algorithms.
+- **Cyber Security**: Developing strategies to protect systems and networks.
 
+Feel free to reach out if you have any questions or if you want to bounce ideas around!
 
-## My projectss ⚡
+`[LinkedIn](https://www.linkedin.com/in/harveyphm/)https://www.linkedin.com/in/harveyphm/)`
 
-### Ethereum 
-
-### Deep Learning 
-
-### Reinforcement Learning 
-
-### Robotics
-
-### Quant Trading/Investing
 
 
 
