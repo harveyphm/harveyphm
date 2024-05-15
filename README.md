@@ -5,7 +5,8 @@ Here are some ideas to get you started:
 -->
 # Hello World, I'm Harvey! 👋
 <div align="center">    
-![gif](https://github.com/harveyphm/harveyphm/blob/main/gif/neural.gif)
+<img src="https://github.com/harveyphm/harveyphm/blob/main/gif/neural.gif" alt="demo" width="900" height="400">
+
 </div>
 
 ## 🤖 About Me
