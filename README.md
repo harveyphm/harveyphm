@@ -25,7 +25,7 @@ I'm always open to collaborating on projects that are at the intersection of dat
 - **Cryptography**: Implementing secure encryption algorithms.
 - **Cyber Security**: Developing strategies to protect systems and networks.
 
-## My Project
+## 🚧 My Project
 ### Computer vision
 - [Brain tumors detection](https://github.com/harveyphm/brain-tumor-detection)
 - [3D Sematic Segmatation for LIDAR data](https://github.com/harveyphm/pointnet2_dales)
