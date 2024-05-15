@@ -31,7 +31,7 @@ I'm always open to collaborating on projects that are at the intersection of dat
 
 Feel free to reach out if you have any questions or if you want to bounce ideas around!
 
-<a href="https://www.linkedin.com/in/harveyphm/"><img src="https://img.shields.io/badge/Linkedin-or?logo=LinkedIn" alt="linkedin"></a>
+<a href="https://www.linkedin.com/in/harveyphm/"><img src="https://img.shields.io/badge/Linkedin-or?logo=LinkedIn-white" alt="linkedin"></a>
 
 [LinkedIn](https://www.linkedin.com/in/harveyphm/)
 
