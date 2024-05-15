@@ -11,23 +11,18 @@ Here are some ideas to get you started:
 I'm a passionate programmer and a dedicated learner with a keen interest in **Data Science, Deep Learning, Cryptography, and Cyber Security**. I believe in the power of data and technology to transform and secure our digital world.
 
 ## 🔍 My Focus
-- **Data Science**: Unraveling data mysteries with Python and R.
-- **Deep Learning**: Building and training neural networks to mimic human decision-making.
-- **Cryptography**: Implementing secure encryption algorithms.
-- **Cyber Security**: Developing strategies to protect systems and networks.
+- **🔭 Data Science**: Unraveling data mysteries with Python and R to derive meaningful insights from complex datasets.
+- **🌱 Deep Learning**: Building and training neural networks to mimic human decision-making in solving real-world problems.
+- **👨‍💻 Cryptography**: Diving deep into the fascinating world of **Cryptography** to understand how to better secure information
+- **🛡️ Cyber Security**: Developing strategies to protect systems and networks to contribute to building safer cyber environments.
 
-## 🚧 My Project
+## 🚀 My Project
 ### Computer vision
 - [Brain tumors detection](https://github.com/harveyphm/brain-tumor-detection)
 - [3D Sematic Segmatation for LIDAR data](https://github.com/harveyphm/pointnet2_dales)
 ### Natural Language Processing
 - Coming soon!
 
-## 🚀 What I'm Up To
-- 🔭 I’m currently exploring advanced **Data Science** techniques to derive meaningful insights from complex datasets.
-- 🌱 I’m on a journey to master **Deep Learning** and its application in solving real-world problems.
-- 👨‍💻 Diving deep into the fascinating world of **Cryptography** to understand how to better secure information.
-- 🛡️ Strengthening my skills in **Cyber Security** to contribute to building safer cyber environments.
 
 ## 🤝 Let's Collaborate
 I'm always open to collaborating on projects that are at the intersection of data, learning algorithms, security, and innovation. If you're working on something related to **Data Science, Deep Learning, Cryptography, or Cyber Security**, let's connect and create something impactful!
