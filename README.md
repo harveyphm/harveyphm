@@ -33,7 +33,6 @@ Feel free to reach out if you have any questions or if you want to bounce ideas 
 
 <a href="https://www.linkedin.com/in/harveyphm/"><img src="https://img.shields.io/badge/Linkedin-blue?logo=LinkedIn" alt="linkedin"></a>
 
-[LinkedIn](https://www.linkedin.com/in/harveyphm/)
 
 
 
