@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 -->
 # Hello World, I'm Harvey! 👋
 <div align="center">    
-<img src="https://github.com/harveyphm/harveyphm/blob/main/gif/neural.gif" alt="demo" width="900" height="400">
+<img src="https://github.com/harveyphm/harveyphm/blob/main/gif/neural.gif" alt="demo" width="900" height="300">
 
 </div>
 
@@ -30,6 +30,8 @@ I'm a passionate programmer and a dedicated learner with a keen interest in **Da
 I'm always open to collaborating on projects that are at the intersection of data, learning algorithms, security, and innovation. If you're working on something related to **Data Science, Deep Learning, Cryptography, or Cyber Security**, let's connect and create something impactful!
 
 Feel free to reach out if you have any questions or if you want to bounce ideas around!
+
+<a href="https://www.linkedin.com/in/harveyphm/"><img src="https://img.shields.io/badge/Linkedin-or?logo=#0A66C2" alt="linkedin"></a>
 
 [LinkedIn](https://www.linkedin.com/in/harveyphm/)
 
