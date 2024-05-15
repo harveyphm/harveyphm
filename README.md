@@ -4,7 +4,9 @@
 Here are some ideas to get you started:
 -->
 # Hello World, I'm Harvey! 👋
+<div align="center">    
 ![gif](https://github.com/harveyphm/harveyphm/blob/main/gif/neural.gif)
+</div>
 
 ## 🤖 About Me
 I'm a passionate programmer and a dedicated learner with a keen interest in **Data Science, Deep Learning, Cryptography, and Cyber Security**. I believe in the power of data and technology to transform and secure our digital world.
